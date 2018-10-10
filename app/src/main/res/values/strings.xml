@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AadWebView</string>
+    <string name="archivoSharedPreferences">arShPr</string>
+    <string name="clave1">claveShPref</string>
+    <string name="clave2">clavePref</string>
+    <string name="clave3">claveDePref</string>
+    <string name="leer1">leer archivo 1</string>
+    <string name="leer2">leer archivo 2</string>
+    <string name="leer3">leer archivo 3</string>
+    <string name="getDefaultSharedPreferences">getDefaultSharedPreferences()</string>
+    <string name="getPreferences">getPreferences()</string>
+    <string name="getSharedPreferences">getSharedPreferences()</string>
+    <string name="valor1">primer valor</string>
+    <string name="valor2">segundo valor</string>
+    <string name="valor3">tercer valor</string>
+    <string name="valorPredeterminado">valor predeterminado: no está</string>
+</resources>
